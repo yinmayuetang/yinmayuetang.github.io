@@ -18,11 +18,11 @@ I am a graduate student majoring in **Applied Psychology** at City University of
 ## **EDUCATION**
 
 - **Sep 2022 - Oct 2023** **City University of Hong Kong**
--                          Master in Applied Psychology
+　　　　　　　　　　　　　　　Master in Applied Psychology
 - **Sep 2017 - Jun 2021** **Nankai University**
--                          Bachelor in Administration Management　
+　　　　　　　　　　　　　　　Bachelor in Administration Management　
 - **Mar 2019 - Jun 2021** **Tianjin University**
--                          Bachelor in Business Management　　　
+　　　　　　　　　　　　　　　Bachelor in Business Management　　　
 
 
 <br>
@@ -44,9 +44,8 @@ My current research focuses on practical problems that artificial intelligence f
 
 ## **RESEARCH EXPERIENCE**
 - **Jun 2023-Present** 　Beijing 301 Hospital: Brain Science and psychology Laborator　　**Member**
-- **Jan 2023- Jul 2023** Master’s Degree Thesis: Posttraumatic Depreciation Functioned as A Mediator in the Relationship between Fear of Infection and Adjustment Disorder during the pandemic (**Submitted**)　　　　　　    　　　　　　　　　　  *Supervisor: Prof. HO Samuel M.Y.*
-- **Jun 2022- Sep 2022** Chinese Academy of Sciences (CAS), National Mental Health Database 　　
-　　                   **Research Assistant**
+- **Jan 2023- Jul 2023** Master’s Degree Thesis: Posttraumatic Depreciation Functioned as A Mediator in the Relationship between Fear of Infection and Adjustment Disorder during the pandemic (**Submitted**)　　*Supervisor: Prof. HO Samuel M.Y.*　　　　　  
+- **Jun 2022- Sep 2022** Chinese Academy of Sciences (CAS), National Mental Health Database　　**Research Assistant**　  
 
 
 
