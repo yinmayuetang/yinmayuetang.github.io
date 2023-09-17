@@ -38,7 +38,6 @@ My current research focuses on  I wish to devote my talent to this meaningful ca
 - **Jun 2022- Sep 2022**　 Chinese Academy of Sciences (CAS)  “National Mental Health Database” 　　
 　　                   　**Research Assistant**
 　
-
 <br>
 
 ---
