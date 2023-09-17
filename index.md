@@ -33,14 +33,11 @@ My current research focuses on  I wish to devote my talent to this meaningful ca
 
 ## **RESEARCH EXPERIENCE**
 - **Jun 2023-Present** 　Beijing 301 Hospital: Brain Science and psychology Laborator　　**Member**
-- **Jan 2023- Jul 2023**　  Master’s Degree Thesis: Posttraumatic Depreciation Functioned as A Mediator in the Relationship between Fear of Infection and Adjustment Disorder during the Pandemic (**Submitted**)　　　　　　　　     
-　　　　　　　　　　*Supervisor: Prof. HO Samuel M.Y.*
-- **Jun 2022- Sep 2022**　  Chinese Academy of Sciences (CAS)
-“National Mental Health Database” 　　
-　　　　　　　　**Research Assistant**
-
-　　
-
+- **Jan 2023- Jul 2023**　 Master’s Degree Thesis: Posttraumatic Depreciation Functioned as A Mediator in the Relationship between Fear of Infection and Adjustment Disorder during the Pandemic (**Submitted**)　　　　　　　　    
+　　　　　　　　　　        *Supervisor: Prof. HO Samuel M.Y.*
+- **Jun 2022- Sep 2022**　 Chinese Academy of Sciences (CAS)  “National Mental Health Database” 　　
+　　                   　**Research Assistant**
+　
 
 <br>
 
