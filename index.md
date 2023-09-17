@@ -17,7 +17,7 @@ I am a graduate student majoring in **Applied Psychology** at City University of
 
 ## **EDUCATION**
 
-- **Sep 2022 - Oct 2023**   Master in Applied Psychology   **City University of Hong Kong**
+- **Sep 2022 - Oct 2023**  　 Master in Applied Psychology   　**City University of Hong Kong**
 - **Sep 2017 - Jun 2021** 　Bachelor in Administration Management　　 **Nankai University**
 - **Mar 2019 - Jun 2021** 　Bachelor in Business Management　　　　  **Tianjin University**
 
