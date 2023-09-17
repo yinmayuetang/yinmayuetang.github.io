@@ -11,7 +11,7 @@ Here is **Yinmayue Tang (Zoe)**.
 
 I am a graduate student majoring in **Applied Psychology** at City University of Hong Kong. Currently, I am an intern in the clinical psychology department of a psychiatric hospital.
 
-*<font color='red'> [I am looking for a **PhD** position in **Counseling Psychology** for 2024 Fall*]. Here is [my CV](https://yinmayuetang.github.io/file/CV-TANGYinmayue.pdf). 
+*<font color='red'> I am looking for a **PhD** position in **Counseling Psychology** for 2024 Fall*. Here is [my CV](https://yinmayuetang.github.io/file/CV-TANGYinmayue.pdf). 
 
 <br>
 
