@@ -1,48 +1,55 @@
----
-layout: page
----
+# ***PROFILE***
 
-# About Me
+<img src="https://yinmayue-tang.github.io/images/yinmatang.jpg" class="floatpic" width="360" height="480">
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+Here is **Yinmayue Tang (Zoe)**.
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
+I am a graduate student majoring in **Master of Applied Psychology** at City University of Hong Kong. Currently, I am an intern in the clinical psychology department of a psychiatric hospital.
 
-I am a senior student majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). Currently, I am working as a research assistant in the **IACTIP Lab** (Provincial Key), advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). Here is [[my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf)].
+*I am looking for a **PhD** position in **Counseling Psychology** for 2024 Fall*. Here is [my CV](https://yinmayue-tang.github.io/file/CV-TANGYinmayue.pdf).
+  
+<br>  
+ 
+## **EDUCATION**
 
-<br>
+- **Sep 2022 - Oct 2023** 　Master in Applied Psychology 　　**City University of Hong Kong**　　　　　　　　　　　　　
+- **Sep 2017 - Jun 2021** 　Bachelor in Administration Management　　 **Nankai University**
+- **Mar 2019 - Jun 2021** 　Bachelor in Business Management　　　　　 **Tianjin University**
 
-## Academic Background
-
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
-
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - May 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Visiting)
-- Expect to apply for a one-year MSc in the UK and will graduate in 2025. Looking for PhD position after MSc!
-
-<br>
-
+<br>　　　
+ 
 ---
 
-## Research Interests
+## **RESAERCH INTEREST**
+- Adolescent & Resilience
+- Underlying mechenisms of mindfulness based 
+- Positive psychology  intervention
 
-- Industrial IoT System
-- Bluetooth Low Energy
-- Applied Machine Learning
-
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focuses on  I wish to devote my talent to this meaningful cause and bring well-being to socie．
 
 <br>
 
 ---
 
-## News and Updates
+## **RESEARCH EXPERIENCE**
+- **Jun 2023-Present** 　Beijing 301 Hospital: Brain Science and psychology Laborator　　**Member**
+- **Jan 2023- Jul 2023**　  Master’s Degree Thesis: Posttraumatic Depreciation Functioned as A Mediator in the Relationship between Fear of Infection and Adjustment Disorder during the Pandemic (**Submitted**)　　　　　　　　     
+　　　　　　　　　　*Supervisor: Prof. HO Samuel M.Y.*
+- **Jun 2022- Sep 2022**　  Chinese Academy of Sciences (CAS)
+“National Mental Health Database” 　　
+　　　　　　　　**Research Assistant**
 
-- **Sep 2023：**Our works [DefenderIoT](https://fzuiot.site/) has been officially publicized by [Youth of FZU](https://mp.weixin.qq.com/s/MF2NJQtEHsVwsm8Ym-l7Gg).
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023.
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Jun 2022：**Visiting Research Intern at Cambridge University, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
-- If you are interested in my works, please feel free to book an [[online talk with me](https://calendly.com/lancecai/meet-with-lance)].
+　　
+
+
+<br>
+
+---
+
+## **PRACTICE**　
+
+- **Aug 2023** 　The Psychiatric Hospital of Jiangyou, Clinical Psychology Department, Intern.
+- **Feb 2023** 　Mental Health First Aid Training (Certificate of MHAHK) .
+- **Nov 2022** 　Mindfulness Training Camp.
+- **Jul &ensp;2019** 　Voluntary teaching in Foshan.
+- **Jun 2017**　 Help canter for children with cerebral palsy.
