@@ -11,15 +11,18 @@ Here is **Yinmayue Tang (Zoe)**.
 
 I am a graduate student majoring in **Applied Psychology** at City University of Hong Kong. Currently, I am an intern in the clinical psychology department of a psychiatric hospital.
 
-*I am looking for a **PhD** position in **Counseling Psychology** for 2024 Fall*. Here is [my CV](https://yinmayuetang.github.io/file/CV-TANGYinmayue.pdf). 
+*I am looking for a **PhD** position in **Counseling Psychology** for **2024 Fall***. Here is [my CV](https://yinmayuetang.github.io/file/CV-TANGYinmayue.pdf). 
 
 <br>
 
 ## **EDUCATION**
 
-- **Sep 2022 - Oct 2023**  　 Master in Applied Psychology   　**City University of Hong Kong**
-- **Sep 2017 - Jun 2021** 　Bachelor in Administration Management　　 **Nankai University**
-- **Mar 2019 - Jun 2021** 　Bachelor in Business Management　　　　  **Tianjin University**
+- **Sep 2022 - Oct 2023** **City University of Hong Kong**
+-                          Master in Applied Psychology
+- **Sep 2017 - Jun 2021** **Nankai University**
+-                          Bachelor in Administration Management　
+- **Mar 2019 - Jun 2021** **Tianjin University**
+-                          Bachelor in Business Management　　　
 
 
 <br>
