@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# **About Me**
+# **ABOUT ME**
 
 <img src="https://yinmayuetang.github.io/images/yinmatang.jpg" class="floatpic" width="360" height="480">
 
@@ -17,7 +17,7 @@ I am a graduate student majoring in **Master of Applied Psychology** at City Uni
 
 ## **EDUCATION**
 
-- **Sep 2022 - Oct 2023**     Master in Applied Psychology   **City University of Hong Kong**
+- **Sep 2022 - Oct 2023**   Master in Applied Psychology   **City University of Hong Kong**
 - **Sep 2017 - Jun 2021** 　Bachelor in Administration Management　　 **Nankai University**
 - **Mar 2019 - Jun 2021** 　Bachelor in Business Management　　　　  **Tianjin University**
 
