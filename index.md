@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# ***Profile***
+# **About Me**
 
 <img src="https://yinmayuetang.github.io/images/yinmatang.jpg" class="floatpic" width="360" height="480">
 
@@ -10,7 +10,7 @@ Here is **Yinmayue Tang (Zoe)**.
 
 I am a graduate student majoring in **Master of Applied Psychology** at City University of Hong Kong. Currently, I am an intern in the clinical psychology department of a psychiatric hospital.
 
-*<font color='red'>[Highlight]</font> I am looking for a **PhD** position in **Counseling Psychology** for 2024 Fall*. Here is [my CV](https://yinmayue-tang.github.io/file/CV-TANGYinmayue.pdf). 
+*<font color='red'> </font> I am looking for a **PhD** position in **Counseling Psychology** for 2024 Fall*. Here is [my CV](https://yinmayue-tang.github.io/file/CV-TANGYinmayue.pdf). 
 
 <br>
 
@@ -18,7 +18,7 @@ I am a graduate student majoring in **Master of Applied Psychology** at City Uni
 
 **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
 
-- **Sep 2022 - Oct 2023**   Master in Applied Psychology   **City University of Hong Kong**
+- **Sep 2022 - Oct 2023**     Master in Applied Psychology   **City University of Hong Kong**
 - **Sep 2017 - Jun 2021** 　Bachelor in Administration Management　　 **Nankai University**
 - **Mar 2019 - Jun 2021** 　Bachelor in Business Management　　　　  **Tianjin University**
 
