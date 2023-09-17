@@ -1,6 +1,6 @@
 # ***PROFILE***
 
-<img src="https://yinmayue-tang.github.io/images/yinmatang.jpg" class="floatpic" width="360" height="480">
+<img src="https://yinmayuetang.github.io/images/yinmatang.jpg" class="floatpic" width="360" height="480">
 
 Here is **Yinmayue Tang (Zoe)**.
 
