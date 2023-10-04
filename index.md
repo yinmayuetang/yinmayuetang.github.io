@@ -20,7 +20,7 @@ I am a graduate student majoring in **Applied Psychology** at City University of
 ## **EDUCATION**
 
 - **Sep 2022 - Oct 2023**　**City University of Hong Kong** 
-<br>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Master in Applied Psychology
+<br>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Master in Applied Psychology
 - **Sep 2017 - Jun 2021**　**Nankai University**
 <br> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;　Bachelor in Administration Management　
 - **Mar 2019 - Jun 2021**　**Tianjin University**
