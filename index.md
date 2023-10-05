@@ -34,10 +34,10 @@ I am a graduate student majoring in **Applied Psychology** at City University of
 ## **RESEARCH INTEREST**
 
 - Adolescent & Resilience
-- Underlying mechenisms of mindfulness based intervention
+- Underlying mechanisms of mindfulness based intervention
 - Positive psychology  
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+I dedicate to apply what I learned into practice and discover the problems from practice to conduct research, trying to realize the combination of research value and practical value. Based on my previous research and intern experience, I wanna explore the positive psychological resources to help people better cope with present/future stress and threats, from identifying factors, and discovering mechanisms, to examining interventions.
 
 
 <br>
