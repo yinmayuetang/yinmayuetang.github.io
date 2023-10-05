@@ -15,12 +15,9 @@ title: Hobbies
 <br>A Piano & Vocal Cover 👆  
 <div>    
 <br>It is no exaggeration to say music constructs my life. Because my father is a music teacher, I started to learn various instruments early in my childhood. And now I can play piano, guitar, and hulusi. Music has the power to let me focus on the present and give me a sense of security. My favorite types of music are Jazz and Soul, which embrace me like a comfortable hug to let me chill out.
-
-
-
+<div>
 
 ## Photographing
-
 <div class="third">
 <img src="/images/p2.jpg">
 <img src="/images/p5.jpg">
