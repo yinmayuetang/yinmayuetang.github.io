@@ -13,7 +13,6 @@ title: Hobbies
     <img border="0" src="https://res.cloudinary.com/marcomontalbano/image/upload/v1696497696/video_to_markdown/images/youtube--uvTYTe_9U4g-c05b58ac6eb4c4700831b2b3070cd403.jpg" width="300" height="200" />
 </a>
 <br>A Piano & Vocal Cover 👆  
-</div>
 <br>It is no exaggeration to say music constructs my life. Because my father is a music teacher, I started to learn various instruments early in my childhood. And now I can play piano, guitar, and hulusi. Music has the power to let me focus on the present and give me a sense of security. My favorite types of music are Jazz and Soul, which embrace me like a comfortable hug to let me chill out.
 
 
