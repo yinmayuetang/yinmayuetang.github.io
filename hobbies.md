@@ -9,7 +9,7 @@ title: Hobbies
 ## Music
 
 <div>
-<a href="{https://youtu.be/uvTYTe_9U4g?si=6IkWxkJz__PSJhmN}" title="Piano&Singing-Leave the door open"><img src="{[![Piano&Singing-Leave the door open](https://res.cloudinary.com/marcomontalbano/image/upload/v1696497696/video_to_markdown/images/youtube--uvTYTe_9U4g-c05b58ac6eb4c4700831b2b3070cd403.jpg)]}" alt="Piano&Singing-Leave the door open" /></a>
+<a href="{https://youtu.be/uvTYTe_9U4g?si=6IkWxkJz__PSJhmN}" title="Piano&Singing-Leave the door open"><img src="{https://res.cloudinary.com/marcomontalbano/image/upload/v1696497696/video_to_markdown/images/youtube--uvTYTe_9U4g-c05b58ac6eb4c4700831b2b3070cd403.jpg}" alt="Piano&Singing-Leave the door open" /></a>
 
 
 </div>
