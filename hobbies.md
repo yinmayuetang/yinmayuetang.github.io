@@ -9,7 +9,7 @@ title: Hobbies
 ## Music
 
 <div>
-[<img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1696497696/video_to_markdown/images/youtube--uvTYTe_9U4g-c05b58ac6eb4c4700831b2b3070cd403.jpg" width="300" height="200"/>](https://youtu.be/uvTYTe_9U4g?si=6IkWxkJz__PSJhmN)
+![<img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1696497696/video_to_markdown/images/youtube--uvTYTe_9U4g-c05b58ac6eb4c4700831b2b3070cd403.jpg" width="300" height="200"/>](https://youtu.be/uvTYTe_9U4g?si=6IkWxkJz__PSJhmN)
 <br>A Piano & Vocal Cover 👆
   
 </div>
