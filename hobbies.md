@@ -18,7 +18,8 @@ title: Hobbies
 
 
     
-## Photographing
+## Music
+
 <div class="third">
 <img src="/images/p2.jpg">
 <img src="/images/p5.jpg">
