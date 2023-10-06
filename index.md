@@ -24,7 +24,7 @@ I am a graduate student majoring in **Applied Psychology** at City University of
 - **Sep 2017 - Jun 2021**　**Nankai University**
 <br> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;　Bachelor in Administration Management　
 - **Mar 2019 - Jun 2021**　**Tianjin University**
-<br> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;　Bachelor in Business Management　　　
+<br> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;　Bachelor in Business Management (dual)　　　
 
 
 <br>
