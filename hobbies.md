@@ -19,7 +19,6 @@ title: Hobbies
 <div>
 
 
-
 ## Photographing
 
 <div class="third">
