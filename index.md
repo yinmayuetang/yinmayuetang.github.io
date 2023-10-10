@@ -1,6 +1,15 @@
 ---
 layout: page
 ---
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?7b99850441416485cd4e979159bfb6f1";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
 
 # **ABOUT ME**
 
