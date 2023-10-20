@@ -23,7 +23,7 @@ Here is **Yinmayue Tang (Zoe)**.
 
 I am a graduate student majoring in **Applied Psychology** at City University of Hong Kong. Currently, I am an intern in the clinical psychology department of a psychiatric hospital.
 
-*I am looking for a **PhD** position in **Psychology** for **2024 Fall***. Here is [my CV](https://yinmayuetang.github.io/file/CV-TANGYinmayue.pdf). 
+*I am looking for a **PhD** position in **Counseling Psychology** for **2024 Fall***. Here is [my CV](https://yinmayuetang.github.io/file/CV-TANGYinmayue.pdf). 
 
 <br>
 
@@ -44,10 +44,10 @@ I am a graduate student majoring in **Applied Psychology** at City University of
 ## **RESEARCH INTEREST**
 
 - Adolescent & Resilience
-- Underlying mechanisms of mindfulness based intervention
+- Mindfulness-based intervention & Insomnia
 - Positive psychology  
 
-I dedicate to apply what I learned into practice and discover the problems from practice to conduct research, trying to realize the combination of research value and practical value. Based on my previous research and intern experience, I wanna explore the positive psychological resources to help people better cope with present/future stress and threats, from identifying factors, and discovering mechanisms, to examining interventions.
+I am dedicated to applying what I learned into practice and discovering the problems from practice to conduct research, trying to realize the combination of research value and practical value. Based on my previous research and intern experience, I wanna explore the positive psychological resources to help people better cope with present/future stressful life events, from identifying factors, and discovering mechanisms, to examining interventions.
 
 
 <br>
