@@ -11,9 +11,9 @@ layout: page
 
 Here is **Yinmayue(Zoe) Tang**.
 
-I am an incoming PhD student majoring in **Counseling Psychology** at the University of Iowa. Currently, I am working as a psychotherapists in a public general hospital in China.
+I am an upcoming PhD student majoring in **Counseling Psychology** at the University of Iowa. Currently, I am working as a psychotherapist in a public general hospital in China, responsible for individual and group therapy for patients with psychological disorders.
 
-Details please refer to [my CV](https://yinmayuetang.github.io/file/CV-TANGYinmayue.pdf). 
+For details, please refer to [my CV](https://yinmayuetang.github.io/file/CV-TANGYinmayue.pdf). 
 
 <br>
 
@@ -37,10 +37,10 @@ Details please refer to [my CV](https://yinmayuetang.github.io/file/CV-TANGYinma
 ## **RESEARCH INTEREST**
 
 - Adolescent & Resilience
-- Underlying mechanisms of mindfulness based intervention
+- Underlying mechanisms of mindfulness-based intervention
 - Positive psychology  
 
-I dedicate to apply what I learned into practice and discover the problems from practice to conduct research, trying to realize the combination of research value and practical value. Based on my previous research and intern experience, I wanna explore the positive psychological resources to help people better cope with present/future stress and threats, from identifying factors, and discovering mechanisms, to examining interventions.
+I am dedicated to applying what I learned into practice and discovering the problems from practice to conduct research, trying to realize the combination of research value and practical value. Based on my previous research and intern experience, I wanna explore positive psychological resources to help people better cope with present/future stress and threats, from identifying factors and discovering mechanisms to examining interventions.
 
 
 <br>
@@ -50,9 +50,9 @@ I dedicate to apply what I learned into practice and discover the problems from 
 ## **Working Experience**　
 
 - **Jan 2024-present** 　The First People’s Hospital of Suining City, Therapist.
-- **Jul 2023-Oct 2023**  The Psychiatric Hospital of Jiangyou, Clinical Psychology Department, Intern.
-- **Aug 2021-Jun 2022**  Chengdu Blue Whale Times Management Consulting Co., Ltd., Recruitment Consultant.
-- **Sep 2019-Sep 2020**  Zhangmen Education Inc., Math Teacher, (Remote, Part-time).
+- **Jul 2023-Oct 2023**  &ensp;The Psychiatric Hospital of Jiangyou, Clinical Psychology Department, Intern.
+- **Aug 2021-Jun 2022**  &ensp;Chengdu Blue Whale Times Management Consulting Co., Ltd., Recruitment Consultant.
+- **Sep 2019-Sep 2020**  &ensp;Zhangmen Education Inc., Math Teacher (Remote, Part-time).
 
 
 
@@ -61,7 +61,7 @@ I dedicate to apply what I learned into practice and discover the problems from 
 ---
 
 ## **RESEARCH EXPERIENCE**
-- **Jun 2023-Present**　Beijing 301 Hospital: Brain Science and Psychology Laborator　**Member**
+- **Jun 2023-Present**　Beijing 301 Hospital: Brain Science and Psychology Laboratory　**Member**
 - **Jan 2023- Jul 2023**　Master’s Degree Thesis: Posttraumatic Depreciation Functioned as A Mediator in the Relationship between Fear of Infection and Adjustment Disorder during the pandemic　*Supervisor: Prof. HO Samuel M.Y.*　　　　　  
 - **Jun 2022- Sep 2022**　Chinese Academy of Sciences (CAS), National Mental Health Database　　**Research Assistant**
 - **May 2019-May 2020**  Evaluation of Junior High School Entrance Policy (Second Prize in Nankai project training)  **Project Member**
