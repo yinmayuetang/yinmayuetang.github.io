@@ -9,22 +9,25 @@ layout: page
 <img src="https://yinmayuetang.github.io/images/yinmatang.jpg" class="floatpic" width="360" height="480">
 
 
-Here is **Yinmayue Tang (Zoe)**.
+Here is **Yinmayue(Zoe) Tang**.
 
-I am a graduate student majoring in **Applied Psychology** at City University of Hong Kong. Currently, I am an intern in the clinical psychology department of a psychiatric hospital.
+I am an incoming PhD student majoring in **Counseling Psychology** at the University of Iowa. Currently, I am working as a psychotherapists in a public general hospital in China.
 
-*I am looking for a **PhD** position in **Counseling Psychology** for **2024 Fall***. Here is [my CV](https://yinmayuetang.github.io/file/CV-TANGYinmayue.pdf). 
+Details please refer to [my CV](https://yinmayuetang.github.io/file/CV-TANGYinmayue.pdf). 
 
 <br>
 
 ## **EDUCATION**
 
-- **Sep 2022 - Oct 2023**　**City University of Hong Kong** 
+- **Aug 2024-Jun 2030**　**University of Iowa** 
+<br>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;PhD in Counseling Psychology
+- **Sep 2022-Oct 2023**　**City University of Hong Kong** 
 <br>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Master in Applied Psychology
-- **Sep 2017 - Jun 2021**　**Nankai University**
+- **Sep 2017-Jun 2021**　**Nankai University**
 <br> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;　Bachelor in Administration Management　
-- **Mar 2019 - Jun 2021**　**Tianjin University**
-<br> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;　Bachelor in Business Management　　　
+- **Mar 2019-Jun 2021**　**Tianjin University**
+<br> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;　Bachelor in Business Management (Minor)　　
+
 
 
 <br>
@@ -44,10 +47,12 @@ I dedicate to apply what I learned into practice and discover the problems from 
 
 ---
 
-## **RESEARCH EXPERIENCE**
-- **Jun 2023-Present**　Beijing 301 Hospital: Brain Science and Psychology Laborator　　**Member**
-- **Jan 2023- Jul 2023**　Master’s Degree Thesis: Posttraumatic Depreciation Functioned as A Mediator in the Relationship between Fear of Infection and Adjustment Disorder during the pandemic (**Submitted**)　　*Supervisor: Prof. HO Samuel M.Y.*　　　　　  
-- **Jun 2022- Sep 2022**　Chinese Academy of Sciences (CAS), National Mental Health Database　　**Research Assistant**　  
+## **Working Experience**　
+
+- **Jan 2024-present** 　The First People’s Hospital of Suining City, Therapist.
+- **Jul 2023-Oct 2023**  The Psychiatric Hospital of Jiangyou, Clinical Psychology Department, Intern.
+- **Aug 2021-Jun 2022**  Chengdu Blue Whale Times Management Consulting Co., Ltd., Recruitment Consultant.
+- **Sep 2019-Sep 2020**  Zhangmen Education Inc., Math Teacher, (Remote, Part-time).
 
 
 
@@ -55,10 +60,20 @@ I dedicate to apply what I learned into practice and discover the problems from 
 
 ---
 
-## **PRACTICE**　
+## **RESEARCH EXPERIENCE**
+- **Jun 2023-Present**　Beijing 301 Hospital: Brain Science and Psychology Laborator　**Member**
+- **Jan 2023- Jul 2023**　Master’s Degree Thesis: Posttraumatic Depreciation Functioned as A Mediator in the Relationship between Fear of Infection and Adjustment Disorder during the pandemic　*Supervisor: Prof. HO Samuel M.Y.*　　　　　  
+- **Jun 2022- Sep 2022**　Chinese Academy of Sciences (CAS), National Mental Health Database　　**Research Assistant**
+- **May 2019-May 2020**  Evaluation of Junior High School Entrance Policy (Second Prize in Nankai project training)  **Project Member**
 
-- **Aug 2023** 　The Psychiatric Hospital of Jiangyou, Clinical Psychology Department, Intern.
+<br>
+
+---
+
+## **OTHER TRAINING & VOLUNTEER EXPERIENCE**
 - **Feb 2023** 　Mental Health First Aid Training (Certificate of MHAHK) .
 - **Nov 2022** 　Mindfulness Training Camp.
-- **Jul &ensp;2019** 　Voluntary teaching in Foshan.
+- **Jul 2019** 　Voluntary teaching in Foshan.
 - **Jun 2017**　 Help canter for children with cerebral palsy.
+
+
