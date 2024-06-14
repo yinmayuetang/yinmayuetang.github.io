@@ -50,9 +50,9 @@ I dedicate to apply what I learned into practice and discover the problems from 
 ## **Working Experience**　
 
 - **Jan 2024-present** 　The First People’s Hospital of Suining City, Therapist.
-- **Jul 2023-Oct 2023**  The Psychiatric Hospital of Jiangyou, Clinical Psychology Department, Intern.
-- **Aug 2021-Jun 2022**  Chengdu Blue Whale Times Management Consulting Co., Ltd., Recruitment Consultant.
-- **Sep 2019-Sep 2020**  Zhangmen Education Inc., Math Teacher, (Remote, Part-time).
+- **Jul 2023-Oct 2023**    The Psychiatric Hospital of Jiangyou, Clinical Psychology Department, Intern.
+- **Aug 2021-Jun 2022**    Chengdu Blue Whale Times Management Consulting Co., Ltd., Recruitment Consultant.
+- **Sep 2019-Sep 2020**    Zhangmen Education Inc., Math Teacher, (Remote, Part-time).
 
 
 
