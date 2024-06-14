@@ -11,7 +11,7 @@ layout: page
 
 Here is **Yinmayue(Zoe) Tang**.
 
-I am an incoming PhD student majoring in **Counseling Psychology** at the University of Iowa. Currently, I am working as a psychotherapists in a public general hospital in China.
+I am an incoming PhD student majoring in **Counseling Psychology** at the University of Iowa. Currently, I am working as a psychotherapist in a public general hospital in China, responsible for individual and group therapy for patients with psychological disorders.
 
 Details please refer to [my CV](https://yinmayuetang.github.io/file/CV-TANGYinmayue.pdf). 
 
