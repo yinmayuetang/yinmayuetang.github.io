@@ -47,7 +47,7 @@ I am dedicated to applying what I learned into practice and discovering the prob
 
 ---
 
-## **Working Experience**　
+## **WORKING EXPERIENCE**　
 
 - **Jan 2024-present** 　The First People’s Hospital of Suining City, Therapist.
 - **Jul 2023-Oct 2023**  &ensp;The Psychiatric Hospital of Jiangyou, Clinical Psychology Department, Intern.
