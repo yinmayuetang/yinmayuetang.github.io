@@ -50,9 +50,9 @@ I dedicate to apply what I learned into practice and discover the problems from 
 ## **Working Experience**　
 
 - **Jan 2024-present** 　The First People’s Hospital of Suining City, Therapist.
-- **Jul 2023-Oct 2023**    The Psychiatric Hospital of Jiangyou, Clinical Psychology Department, Intern.
-- **Aug 2021-Jun 2022**    Chengdu Blue Whale Times Management Consulting Co., Ltd., Recruitment Consultant.
-- **Sep 2019-Sep 2020**    Zhangmen Education Inc., Math Teacher, (Remote, Part-time).
+- **Jul 2023-Oct 2023**  &ensp;The Psychiatric Hospital of Jiangyou, Clinical Psychology Department, Intern.
+- **Aug 2021-Jun 2022**  &ensp;Chengdu Blue Whale Times Management Consulting Co., Ltd., Recruitment Consultant.
+- **Sep 2019-Sep 2020**  &ensp;Zhangmen Education Inc., Math Teacher (Remote, Part-time).
 
 
 
@@ -61,7 +61,7 @@ I dedicate to apply what I learned into practice and discover the problems from 
 ---
 
 ## **RESEARCH EXPERIENCE**
-- **Jun 2023-Present**　Beijing 301 Hospital: Brain Science and Psychology Laborator　**Member**
+- **Jun 2023-Present**　Beijing 301 Hospital: Brain Science and Psychology Laboratory　**Member**
 - **Jan 2023- Jul 2023**　Master’s Degree Thesis: Posttraumatic Depreciation Functioned as A Mediator in the Relationship between Fear of Infection and Adjustment Disorder during the pandemic　*Supervisor: Prof. HO Samuel M.Y.*　　　　　  
 - **Jun 2022- Sep 2022**　Chinese Academy of Sciences (CAS), National Mental Health Database　　**Research Assistant**
 - **May 2019-May 2020**  Evaluation of Junior High School Entrance Policy (Second Prize in Nankai project training)  **Project Member**
