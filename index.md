@@ -11,9 +11,9 @@ layout: page
 
 Here is **Yinmayue(Zoe) Tang**.
 
-I am an incoming PhD student majoring in **Counseling Psychology** at the University of Iowa. Currently, I am working as a psychotherapist in a public general hospital in China, responsible for individual and group therapy for patients with psychological disorders.
+I am an upcoming PhD student majoring in **Counseling Psychology** at the University of Iowa. Currently, I am working as a psychotherapist in a public general hospital in China, responsible for individual and group therapy for patients with psychological disorders.
 
-Details please refer to [my CV](https://yinmayuetang.github.io/file/CV-TANGYinmayue.pdf). 
+For details, please refer to [my CV](https://yinmayuetang.github.io/file/CV-TANGYinmayue.pdf). 
 
 <br>
 
@@ -37,10 +37,10 @@ Details please refer to [my CV](https://yinmayuetang.github.io/file/CV-TANGYinma
 ## **RESEARCH INTEREST**
 
 - Adolescent & Resilience
-- Underlying mechanisms of mindfulness based intervention
+- Underlying mechanisms of mindfulness-based intervention
 - Positive psychology  
 
-I dedicate to apply what I learned into practice and discover the problems from practice to conduct research, trying to realize the combination of research value and practical value. Based on my previous research and intern experience, I wanna explore the positive psychological resources to help people better cope with present/future stress and threats, from identifying factors, and discovering mechanisms, to examining interventions.
+I am dedicated to applying what I learned into practice and discovering the problems from practice to conduct research, trying to realize the combination of research value and practical value. Based on my previous research and intern experience, I wanna explore positive psychological resources to help people better cope with present/future stress and threats, from identifying factors and discovering mechanisms to examining interventions.
 
 
 <br>
