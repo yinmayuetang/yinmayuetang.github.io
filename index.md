@@ -19,7 +19,7 @@ For details, please refer to [my CV](https://yinmayuetang.github.io/file/CV-TANG
 
 ## **EDUCATION**
 
-- **Aug 2024-Jun 2030**　**University of Iowa** 
+- **Aug 2024-Jun 2030**　**The University of Iowa** 
 <br>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;PhD in Counseling Psychology
 - **Sep 2022-Oct 2023**　**City University of Hong Kong** 
 <br>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Master in Applied Psychology
